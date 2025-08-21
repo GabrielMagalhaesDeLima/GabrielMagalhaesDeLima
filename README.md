@@ -21,9 +21,9 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> &nbsp;
 
-<a href="mailto:gabrielmagalhaes062@gmail.com"> 
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=gabrielmagalhaes062@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white">
-</a> &nbsp;
+</a>
 
 
    <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
