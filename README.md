@@ -1,4 +1,42 @@
-## Hi there 👋
+# Olá, eu sou Gabriel Magalhães 👋
+
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** pela Cruzeiro do Sul.
+💻 Atualmente aprendendo **desenvolvimento web** e **ciência de dados**.
+🚀 Buscando construir projetos práticos e compartilhar meu aprendizado aqui no GitHub.
+
+---
+
+## 🌱 Tecnologias que estou aprendendo
+
+* Python 🐍
+* HTML, CSS, JavaScript 🌐
+* SQL 🗄️
+* Git e GitHub 🔧
+
+---
+
+## 📂 Projetos
+
+* [Portfólio em desenvolvimento](#)
+* [Estudos em Python](#)
+* [Projetos de prática com HTML e CSS](#)
+
+---
+
+📫 **Entre em contato:**
+
+<a href="https://www.linkedin.com/in/gabriel-magalhães-3b0aa0239/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a> &nbsp;
+
+<a href="mailto:gabrielmagalhaes062@gmail.com"> 
+  <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white">
+</a> &nbsp;
+
+
+   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
+
 
 <!--
 **GabrielMagalhaesDeLima/GabrielMagalhaesDeLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
