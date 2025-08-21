@@ -15,14 +15,6 @@
 
 ---
 
-## 📂 Projetos
-
-* [Portfólio em desenvolvimento](#)
-* [Estudos em Python](#)
-* [Projetos de prática com HTML e CSS](#)
-
----
-
 📫 **Entre em contato:**
 
 <a href="https://www.linkedin.com/in/gabriel-magalhães-3b0aa0239/">
