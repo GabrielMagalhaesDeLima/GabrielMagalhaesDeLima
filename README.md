@@ -1,7 +1,7 @@
 # Olá, eu sou Gabriel Magalhães 👋
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** pela Cruzeiro do Sul.
-💻 Atualmente aprendendo **desenvolvimento web** e **ciência de dados**.
+💻 Atualmente aprendendo **desenvolvimento Web** e **Java, JavaScript, TypeScript, CSS, HTML**.
 🚀 Buscando construir projetos práticos e compartilhar meu aprendizado aqui no GitHub.
 
 ---
