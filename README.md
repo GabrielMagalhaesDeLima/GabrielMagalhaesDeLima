@@ -8,9 +8,9 @@
 
 ## 🌱 Tecnologias que estou aprendendo
 
-* Python 🐍
-* HTML, CSS, JavaScript 🌐
-* SQL 🗄️
+* Java ♨️
+
+* HTML, CSS, JavaScript, typescript 🌐
 * Git e GitHub 🔧
 
 ---
@@ -26,7 +26,12 @@
 </a>
 
 
-   <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+          
+          
+
+  
+          
           
 
 
